@@ -1,6 +1,6 @@
 package POEx::Types::PSGIServer;
 
-#ABSTRACT: Provides type constraints for use in POEx::Role::PSGIServer
+#ABSTRACT: (DEPRECATED) Provides type constraints for use in POEx::Role::PSGIServer
 use warnings;
 use strict;
 

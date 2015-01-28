@@ -1,6 +1,6 @@
 package POEx::Role::PSGIServer::Streamer;
 
-#ABSTRACT: Provides streaming filehandle PSGI implementation
+#ABSTRACT: (DEPRECATED) Provides streaming filehandle PSGI implementation
 use MooseX::Declare;
 
 class POEx::Role::PSGIServer::Streamer {

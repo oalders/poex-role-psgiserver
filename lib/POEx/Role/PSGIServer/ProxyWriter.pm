@@ -1,6 +1,6 @@
 package POEx::Role::PSGIServer::ProxyWriter;
 
-#ABSTRACT: Provides a push writer for PSGI applications to use
+#ABSTRACT: (DEPRECATED) Provides a push writer for PSGI applications to use
 use MooseX::Declare;
 
 class POEx::Role::PSGIServer::ProxyWriter {
